@@ -1,0 +1,12 @@
+{
+  "title": "rsvp",
+  "name": "rsvp",
+  "description": "RSVP client",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
